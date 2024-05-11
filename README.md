@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 
 
-React Calculator
+#React Calculator
 This is a simple calculator built using React.js. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 Features
@@ -24,32 +24,30 @@ You can see a live demo of the calculator here [Include link to live demo if ava
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone
-Navigate to the project directory:
-bash
-Copy code
+1. Clone the repository:
+
+git clone https://github.com/CoderwithUd/Calculator-React-1.git
+2 . Navigate to the project directory:
+
 cd react-calculator
-Install dependencies:
-bash
-Copy code
+3 . Install dependencies:
+
 npm install
-Start the development server:
-bash
-Copy code
+4 . Start the development server:
+
 npm start
-Open your browser and go to http://localhost:3000 to view the app.
-Usage
+5. Open your browser and go to http://localhost:3000 to view the app.
+
+# Usage
 Simply input numbers and operators to perform calculations. Press the "=" button to see the result. Use the "C" button to clear the input field.
 
-Technologies Used
+#Technologies Used
 React.js
 JavaScript
 CSS
-Contributing
+
+#Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
